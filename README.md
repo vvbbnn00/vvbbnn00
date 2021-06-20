@@ -2,8 +2,8 @@
 ## 我 是 谁
 你好，我是`不做评论`（`vvbbnn00`）。现在17岁， ~~事~~ 是高三学生。
 爱好编程，技术力低，仍在学习中。
-擅长语言：`VB.Net` `Python` `Pascal` `VB` `Basic`
-目前正在学习的语言：`Python` `C++` `Java`
+擅长语言：`VB.Net` `Python` `Pascal` `JavaScript` `C#`
+目前正在学习的语言：`Python` `C++` `Go`
 
 平时会有事没事制作写小网站和小工具,~~但大部分时间应该是在咕咕咕~~
 
@@ -33,8 +33,8 @@ QQ：暂不公开，有事可以邮箱联系，若有必要咱们再加好友
 ## Who Am I
 Hello. My name is `不做评论`(`vvbbnn00`), a 17-year-old high school student.
 I love programming but have poor code writing skills and I am working hard to improve it.
-The programming languages that I am skilled in: `VB.Net` `Python` `Pascal` `VB` `Basic`
-The programming languages that I am learning now: `Python` `C++` `Java`
+The programming languages that I am skilled in: `VB.Net` `Python` `Pascal` `JavaScript` `C#`
+The programming languages that I am learning now: `Python` `C++` `Go`
 
 I write small websites and tools ~~and gugugu~~ in my leisure time
 
