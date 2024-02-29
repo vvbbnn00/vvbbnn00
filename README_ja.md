@@ -1,5 +1,5 @@
 <h1 style="text-align: center;" align="center">
-  Hi 👋, I'm vvbbnn00
+  こんにちは 👋、私は vvbbnn00 です
 </h1>
 
 <div style="text-align: center;" align="center">
@@ -13,26 +13,22 @@
 <br/>
 
 <div style="text-align: center;" align="center">
-  English | <a href="README_zh.md">简体中文</a> | <a href="README_ja.md">日本語</a>
+  <a href="README.md">English</a> | <a href="README_zh.md">简体中文</a> | 日本語
 </div>
 
-### 👨🏻‍💻 About Me
+### 👨🏻‍💻 私について
 
-- 🎓 Currently pursuing a Bachelor's degree in `Computer Science and Technology`
-  at `University of Shanghai for Science and Technology (USST)`.
-- 🚀 Exploring the field of `Distributed Systems` for future direction.
-- 💻 Proficient in `React` and `Vue`, popular front-end frameworks. Enjoys using `Node.js` and `Python` for backend
-  development.
-- 📚 Familiar with `Python` and `JavaScript` languages, and currently diving into `Golang`.
-- 🔍 Interested in `network security`, with a focus on `Web`, and some knowledge in `Misc`, simple `Crypto`,
-  and `Reverse Engineering`.
-- 🌱 Continuously learning and improving my technical skills.
-- 🎥 A fan of the anime world, with favorites including `Steins;Gate`, `Sagrada Reset`, `Spice and Wolf`,
-  and `ef: A Tale of Melodies`.
-- 🎮 Enjoys playing Galgames like `Wonderful Everyday: Down the Rabbit Hole`, `The Devil on G-String`, and `Ever17`.
+- 🎓 現在、`上海理工大学`で`コンピュータサイエンスとテクノロジー`の学士号を取得しています。
+- 🚀 `分散システム`の分野を探求しており、将来の方向性としています。
+- 💻 フロントエンドフレームワーク `React` と `Vue` を習得しており、バックエンド開発に `Node.js` と `Python` を使用するのが好きです。
+- 📚 `Python` と `JavaScript` 言語に精通しており、現在 `Golang` の深い学習を行っています。
+- 🔍 ネットワークセキュリティに興味があり、主に `Web` 方向に注力しており、`Misc`、簡単な `Crypto`、および `逆エンジニアリング` の分野にいくつかの知識があります。
+- 🌱 技術力が低く、現在も技術スキルの向上に努めています。
+- 🎥 アニメが好きで、お気に入りの作品には `Steins;Gate`、`サクラダリセット`、`狼と香辛料`、`ef: A Tale of Melodies` があります。
+- 🎮 好きな Galgame には `素晴らしき日々～不連続存在～`、`G線上の魔王`、`Ever17` があります。
 - 🔑 GPG Keys: `05E6BBEB76341CD0`
 
-### 💬 My Blog Articles
+### 💬 私のブログ
 
 <div style="text-align: center;" align="center">
   <a href="https://blog.vvbbnn00.cn" target="_blank" style="text-decoration: none">
@@ -40,7 +36,7 @@
   </a>
 </div>
 
-### 📫 Reach Me On
+### 📫 連絡先
 
 <div style="text-align: center;" align="center">
   <a href="mailto:vvbbnn00@foxmail.com" target="_blank" style="text-decoration: none">
@@ -56,7 +52,7 @@
   </a>
 </div>
 
-### 📊 Stats Cards
+### 📊 統計カード
 
 <div style="text-align: center;" align="center">
   <img src="https://gitcard.bzpl.tech/api?username=vvbbnn00&amp;show_icons=true&amp;count_private=true" alt="Status Card" height="200px" />
@@ -64,4 +60,3 @@
       <img src="https://malody-stat-card.bzpl.tech/card/default/178813" alt="Malody Stats Card" height="200px" />
   </a>
 </div>
-
