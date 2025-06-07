@@ -20,17 +20,17 @@
 
 - 🎓 Currently pursuing a Bachelor's degree in `Computer Science and Technology`
   at `University of Shanghai for Science and Technology (USST)`.
-- 🚀 Exploring the field of `Distributed Systems` for future direction.
-- 💻 Proficient in `React` and `Vue`, popular front-end frameworks. Enjoys using `Node.js` and `Python` for backend
+- 🚀 Exploring the field of `System Security` for future direction.
+- 💻 Proficient in `React` and `Vue`, popular front-end frameworks. Enjoys using `Java`, `Node.js` and `Python` for backend
   development.
-- 📚 Familiar with `Python` and `JavaScript` languages, and currently diving into `Golang`.
+- 📚 Familiar with `Java`, `Python` and `JavaScript` languages, and currently diving into `Golang`.
 - 🔍 Interested in `network security`, with a focus on `Web`, and some knowledge in `Misc`, simple `Crypto`,
   and `Reverse Engineering`.
 - 🌱 Continuously learning and improving my technical skills.
 - 🎥 A fan of the anime world, with favorites including `Steins;Gate`, `Sagrada Reset`, `Spice and Wolf`,
   and `ef: A Tale of Melodies`.
 - 🎮 Enjoys playing Galgames like `Wonderful Everyday: Down the Rabbit Hole`, `The Devil on G-String`, and `Ever17`.
-- 🔑 GPG Keys: `05E6BBEB76341CD0`
+- 🔑 GPG Keys: `010EB1CB5D205FCD`, `05E6BBEB76341CD0`
 
 ### 💬 My Blog Articles
 
