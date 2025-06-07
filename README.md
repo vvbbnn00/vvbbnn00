@@ -21,8 +21,8 @@
 - 🎓 Currently pursuing a Bachelor's degree in `Computer Science and Technology`
   at `University of Shanghai for Science and Technology (USST)`.
 - 🚀 Exploring the field of `System Security` for future direction.
-- 💻 Proficient in `React` and `Vue`, popular front-end frameworks. Enjoys using `Java`, `Node.js` and `Python` for backend
-  development.
+- 💻 Familiar with popular front-end frameworks like `React` and `Vue`. Enjoys using `Java`, `Node.js` and `Python`
+  for backend development.
 - 📚 Familiar with `Java`, `Python` and `JavaScript` languages, and currently diving into `Golang`.
 - 🔍 Interested in `network security`, with a focus on `Web`, and some knowledge in `Misc`, simple `Crypto`,
   and `Reverse Engineering`.
