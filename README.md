@@ -29,7 +29,7 @@
 - 🌱 Continuously learning and improving my technical skills.
 - 🎥 A fan of the anime world, with favorites including `Steins;Gate`, `Sagrada Reset`, `Spice and Wolf`,
   and `ef: A Tale of Melodies`.
-- 🎮 Enjoys playing Galgames like `Wonderful Everyday: Down the Rabbit Hole`, `The Devil on G-String`, and `Ever17`.
+- 🎮 Enjoys playing games like `Minecraft`, `Eden*`, `Ever17`, etc.
 - 🔑 GPG Keys: `010EB1CB5D205FCD`, `05E6BBEB76341CD0`
 
 ### 💬 My Blog Articles
