@@ -18,7 +18,7 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🎓 Bachelor's degree in `Computer Science and Technology` from `University of Shanghai for Science and Technology`.
+- 🎓 Bachelor's degree in `Computer Science and Technology` from `University of Shanghai for Science and Technology (USST)`.
 - 🎓 Currently pursuing a Master's degree in `Computer Science and Technology`
   at `ShanghaiTech University`.
 - 🚀 Exploring the field of `System Security` for future direction.
